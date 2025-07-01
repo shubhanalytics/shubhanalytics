@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/shubhanalytics/shubhanalytics/main/github-header-image.png)](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+impactful+insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Detail-driven+Data+Analyst+%7C+Creative+Thinker" alt="Typing SVG" />
@@ -23,13 +22,13 @@
 
 - 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
-- 📝 I am also interested in writing poems [https://wahehsaas.blogspot.com/](https://wahehsaas.blogspot.com/)
-
 - 💬 Ask me about **Python, SQL, Tableau, Python and ML Libraries for Data Analysis**
 
 - 📫 How to reach me **shubhank.katarey@outlook.com**
 
 - 📄 Know about my experiences [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
+
+- 📝 I am also interested in writing poems [https://wahehsaas.blogspot.com/](https://wahehsaas.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
