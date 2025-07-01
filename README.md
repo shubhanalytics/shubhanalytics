@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **blockchain, LLMs, Advanced NLP**
 
-- 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
+- 👨‍💻 View the projects portfolio at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
 - 💬 Ask me about **Python, SQL, Tableau, Python and ML Libraries for Data Analysis**
 
