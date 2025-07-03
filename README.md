@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+impactful+insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Detail-driven+Data+Analyst+%7C+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FA9D00&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+impactful+insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Detail-driven+Data+Analyst+%7C+Creative+Thinker" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Always Learning👨‍💻, Always Analyzing📈— Welcome to my journey 🚀</h1>
