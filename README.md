@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on **building AI bots and agents**
 
-- 🌱 I’m currently learning **blockchain, LLMs, Advanced NLP**
+- 🌱 I’m currently learning **Generative AI, Agentic AI, LLMs, Advanced NLP**
 
 - 👨‍💻 View the projects portfolio at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
-- 💬 Ask me about **Python, SQL, Tableau, Python and ML Libraries for Data Analysis**
+- 💬 Ask me about **Data Analysis, Python, SQL, Tableau, Python and ML Libraries for Data Analysis**
 
 - 📫 How to reach me **shubhank.katarey@outlook.com**
 
