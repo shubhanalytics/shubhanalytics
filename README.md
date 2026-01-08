@@ -40,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/shubhankkatarey" target="blank">
+<a href="https://x.com/shubhanalytics" target="blank">
   <img align="center" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="shubhankkatarey" />
 </a>
 <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
