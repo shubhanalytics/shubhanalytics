@@ -28,15 +28,15 @@
 
 - 🌱 I’m currently learning **Generative AI, Agentic AI, LLMs, Advanced NLP**
 
-- 👨‍💻 View the projects portfolio at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
+- 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, AI/ML**
 
-- 💬 Ask me about **Data Analysis, Python, SQL, Tableau, Python and ML Libraries for Data Analysis**
-
-- 📫 How to reach me **shubhank.katarey@outlook.com**
+- 👨‍💻 Projects Portfolio at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
 - 📄 Know about my experiences [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
-- 📝 I am also interested in writing poems [https://wahehsaas.blogspot.com/](https://wahehsaas.blogspot.com/)
+- 📝 Also interested in writing poems [https://wahehsaas.blogspot.com/](https://wahehsaas.blogspot.com/)
+
+- 📫 How to reach me **shubhank.katarey@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
