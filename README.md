@@ -11,11 +11,17 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
+    
     - 🔭 I’m currently working on: **Building Agentic AI & AI Bots**  
+    
     - 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**  
+    
     - 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**  
+    
     - 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)  
+    
     - 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)  
+    
   </div>
 
   <div>
