@@ -6,19 +6,21 @@
 <h1 align="center">👨‍💻 Learning |📈 Analyzing |🚀 Launching </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" />
-  
-  <!-- Add some spacing -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <!-- Profile Views -->
+  <span style="display:inline-block; margin-right:20px;">
+    <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" />
+  </span>
+
   <!-- Social Links -->
-  <a href="https://x.com/shubhanalytics" target="blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-</p>
+  <span style="display:inline-block;">
+    <a href="https://x.com/shubhanalytics" target="blank">
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/shubhanalytics" target="blank" style="margin-left:10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+  </span>
+</p>  
 
 <h3 align="center">!! A Certified & Passionate Data Scientist !!</h3>
 
