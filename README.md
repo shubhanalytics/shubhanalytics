@@ -8,19 +8,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" /> </p>
 
 <h3 align="center">!! A Certified & Passionate Data Scientist !!</h3>
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div>
+    - 🔭 I’m currently working on: **Building Agentic AI & AI Bots**  
+    - 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**  
+    - 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**  
+    - 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)  
+    - 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)  
+  </div>
+
+  <div>
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  </div>
 </div>
-
-- 🔭 I’m currently working on: **Building Agentic AI & AI Bots**
-
-- 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**
-
-- 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**
-
-- 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
-
-- 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
 <h3 align="left">Let's Connect:</h3>
 
