@@ -7,20 +7,20 @@
 
 <p align="left">
   <!-- Profile Views -->
-  <span style="display:inline-block; margin-right:20px;">
-    <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" />
-  </span>
+  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" />
+</p>
 
+<h3 align="left">Connect & Follow :</h3>
+
+<p align="left">
   <!-- Social Links -->
-  <span style="display:inline-block;">
-    <a href="https://x.com/shubhanalytics" target="blank">
-      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/shubhanalytics" target="blank" style="margin-left:10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-  </span>
-</p>  
+  <a href="https://x.com/shubhanalytics" target="blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
 <h3 align="center">!! A Certified & Passionate Data Scientist !!</h3>
 
