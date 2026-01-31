@@ -28,7 +28,7 @@
 </div>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -50,28 +50,20 @@
 <!-- Profile Views -->
 <div align="center" style="margin: 20px 0;">
   <h3>👀 Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Visitors&color=FA9D00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Visitors&color=FA9D00&style=flat-square" alt="Profile Views" />
 </div>
 
 <!-- Social Links -->
 <div align="center" style="margin: 30px 0;">
   <h3>🌐 Connect & Follow</h3>
-  <table>
-    <tr>
-      <td style="padding: 10px;">
-        <a href="https://x.com/shubhanalytics" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X/Twitter"/>
-          <br><b>Twitter / X</b>
-        </a>
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-          <br><b>LinkedIn</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://x.com/shubhanalytics" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24" height="24" alt="Twitter/X"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
 <!-- Quote -->
