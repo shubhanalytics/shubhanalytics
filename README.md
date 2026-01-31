@@ -36,8 +36,6 @@
 
 - 📝 Also interested in writing poems [https://wahehsaas.blogspot.com/](https://wahehsaas.blogspot.com/)
 
-- 📫 How to reach me **shubhank.katarey@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/shubhanalytics" target="blank">
