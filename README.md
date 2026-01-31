@@ -24,15 +24,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Agentic AI & AI Bots**
+- 🔭 I’m currently working on: **Building Agentic AI & AI Bots**
 
-- 🌱 I’m currently learning **Generative AI, Agentic AI, LLMs, Advanced NLP**
+- 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**
 
 - 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**
 
-- 👨‍💻 Projects Portfolio at [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
+- 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
 
-- 📄 Know about my experiences [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
+- 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
 
 <h3 align="left">Connect with me:</h3>
