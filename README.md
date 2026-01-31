@@ -5,12 +5,22 @@
 
 <h1 align="center">Always Learning👨‍💻, Always Analyzing📈— Welcome to my journey 🚀</h1>
 
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A Certified & Passionate Data Scientist</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" /> </p>
+
+- 🔭 I’m currently working on: **Building Agentic AI & AI Bots**
+
+- 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**
+
+- 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**
+
+- 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
+
+- 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
 <p align="left">
   <a href="https://x.com/shubhanalytics" target="blank">
@@ -23,17 +33,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
-
-- 🔭 I’m currently working on: **Building Agentic AI & AI Bots**
-
-- 🌱 I’m currently learning: **Generative AI, Agentic AI, LLMs, Advanced NLP**
-
-- 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML**
-
-- 👨‍💻 PGPDSBA Portfolio: [https://eportfolio.mygreatlearning.com/shubhank-katarey](https://eportfolio.mygreatlearning.com/shubhank-katarey)
-
-- 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
