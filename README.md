@@ -39,9 +39,10 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=3600)
 
