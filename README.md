@@ -5,7 +5,7 @@
 
 <h1 align="center">👨‍💻 Learning | 📈 Analyzing | 🚀 Launching </h1>
 
-<h3 align="center">!! A Certified & Passionate Data Scientist !!</h3>
+<h3 align="center">🏆 A Certified & Passionate Data Scientist 🏆</h3>
 
 <div align="center">
   <table>
