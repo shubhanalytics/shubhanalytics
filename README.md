@@ -22,19 +22,7 @@
 
 - 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
-<p align="left">
-  <a href="https://x.com/shubhanalytics" target="blank">
-    <img src="https://img.shields.io/twitter/follow/shubhankkatarey?logo=x&style=for-the-badge" alt="shubhankkatarey" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://x.com/shubhanalytics" target="blank">
   <img align="center" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="shubhankkatarey" />
