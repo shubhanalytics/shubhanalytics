@@ -5,12 +5,12 @@
 
 <h1 align="center">Always Learning👨‍💻, Always Analyzing📈— Welcome to my journey 🚀</h1>
 
-<h3 align="center">A Certified & Passionate Data Scientist</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" /> </p>
+
+<h3 align="center">!! A Certified & Passionate Data Scientist !!</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanalytics&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanalytics" /> </p>
 
 - 🔭 I’m currently working on: **Building Agentic AI & AI Bots**
 
@@ -23,10 +23,11 @@
 - 📄 GitHub Profile: [https://github.com/shubhanalytics](https://github.com/shubhanalytics)
 
 <h3 align="left">Let's Connect:</h3>
+
 <p align="left">
 <a href="https://x.com/shubhanalytics" target="blank">
   <img align="center" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="shubhankkatarey" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shubhanalytics" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
