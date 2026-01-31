@@ -14,7 +14,7 @@
 <ul>
   <li>🔭 I’m currently working on: <b>Building Agentic AI & AI Bots</b></li>
   <li>🌱 I’m currently learning: <b>Generative AI, Agentic AI, LLMs, Advanced NLP</b></li>
-  <li>💬 Ask me about <b>Data Analysis, Data Science, Python, SQL, Tableau, PowerBI, NLP, GenAI, ML</b></li>
+  <li>💬 Ask me about <b>Data Analysis, Data Science, NLP, GenAI, ML</b></li>
   <li>👨‍💻 Projects Portfolio: <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">View Portfolio</a></li>
   <li>📄 GitHub Profile: <a href="https://github.com/shubhanalytics" target="_blank">Visit GitHub</a></li>
 </ul>
