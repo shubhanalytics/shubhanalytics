@@ -17,7 +17,7 @@
           <li>💬 Ask me about: <b>Data Analysis, Data Science, NLP, GenAI, ML</b></li>
           <li>👨‍💻 Data Science & Business Analytics Certification(PGPDSBA): 
             <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">Certified Eportfolio</a>
-          <li>👨‍💻 Explore my webfolio showcasing my work and other details: 
+          <li>👨‍💻 Explore my webfolio showcasing my work & other details: 
             <a href="https://shubhanalytics.github.io/shubhanalytics-webfolio/" target="_blank">shubhanalytics-webfolio</a>
           </li>
         </ul>
