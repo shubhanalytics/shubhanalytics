@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FA9D00&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+impactful+insights;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Detail-driven+Data+Analyst+%7C+Creative+Thinker" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👨‍💻 Learning | 📈 Analyzing | 🚀 Launching </h1>
+<h1 align="center"> 📈 Strategize | 🛠️ Build | 🌟 Lead </h1>
 
 <h3 align="center">🏆 A Certified & Passionate Data Scientist 🏆</h3>
 
