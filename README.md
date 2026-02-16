@@ -12,13 +12,13 @@
     <tr>
       <td style="vertical-align: top; text-align: left;">
         <ul>
-          <li>🔭 I’m currently working on: <b>Building Agentic AI & AI Bots</b></li>
-          <li>🌱 I’m currently learning: <b>Generative AI, Agentic AI, LLMs, Advanced NLP</b></li>
-          <li>💬 Ask me about: <b>Data Analysis, Data Science, NLP, GenAI, ML</b></li>
-          <li>👨‍💻 Data Science & Business Analytics Certification(PGPDSBA): 
-            <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">Certified Eportfolio</a>
-          <li>👨‍💻 Explore my webfolio showcasing my work & other details: 
-            <a href="https://shubhanalytics.github.io/shubhanalytics-webfolio/" target="_blank">shubhanalytics-webfolio</a>
+          <li>🔭 I’m currently building Agentic AI & AI Bots.</li>
+          <li>🌱 I’m currently learning Generative AI, Agentic AI, LLMs, Advanced NLP.</li>
+          <li>💬 Ask me about Data Analysis, Data Science, NLP, GenAI, ML.</li>
+          <li>👨‍💻 My Data Science & Business Analytics Certification: 
+            <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">PGPDSBA</a>
+          <li>👨‍💻 Also, explore my webfolio showcasing my work & other details: 
+            <a href="https://shubhanalytics.github.io/shubhanalytics-webfolio/" target="_blank">Webfolio</a>
           </li>
         </ul>
       </td>
