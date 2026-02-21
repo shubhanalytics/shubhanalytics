@@ -12,7 +12,7 @@
     <tr>
       <td style="vertical-align: top; text-align: left;">
         <ul>
-          <li>🔭 I’m currently building Agentic AI & AI Bots.</li>
+          <li>🔭 I’m currently building AI Agents & Bots.</li>
           <li>🌱 I’m currently learning Generative AI, Agentic AI, LLMs, Advanced NLP.</li>
           <li>💬 Ask me about Data Analysis, Data Science, NLP, GenAI, ML.</li>
           <li>👨‍💻 My Data Science & Business Analytics Certification: 
