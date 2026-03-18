@@ -12,12 +12,12 @@
     <tr>
       <td style="vertical-align: top; text-align: left;">
         <ul>
-          <li>🔭 I’m currently building AI Agents & Bots.</li>
-          <li>🌱 I’m currently learning Agentic AI, LLMs, Advanced NLP in detail.</li>
-          <li>💬 Ask me about Data Analysis, Data Science, NLP, GenAI, ML.</li>
-          <li>👨‍💻 My Data Science & Business Analytics Certification: 
+          <li>🔧 Building — AI Agents, Autonomous Bots & Agentic Pipelines </li>
+          <li>🧠 Exploring — Agentic AI architectures, LLM fine-tuning & Advanced NLP </li>
+          <li>🛠️ Stack — Data Science · Machine Learning · NLP · GenAI · LLM Orchestration </li>
+          <li>🎓 Certified — PGPDSBA (Data Science & Business Analytics) 
             <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">PGPDSBA</a>
-          <li>👨‍💻 Also, explore my webfolio showcasing my work & other details: 
+          <li>🌐 Webfolio — [Explore my work & projects] 
             <a href="https://shubhanalytics.github.io/shubhanalytics-webfolio/" target="_blank">Webfolio</a>
           </li>
         </ul>
