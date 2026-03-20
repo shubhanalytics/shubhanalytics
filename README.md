@@ -12,13 +12,13 @@
     <tr>
       <td style="vertical-align: top; text-align: left;">
         <ul>
-          <li>🔧 Building — AI Agents, Autonomous Bots & Agentic Pipelines </li>
-          <li>🧠 Exploring — Agentic AI architectures, LLM fine-tuning & Advanced NLP </li>
-          <li>🛠️ Stack — Data Science · Machine Learning · NLP · GenAI · LLM Orchestration </li>
-          <li>🎓 Certified — PGPDSBA (Data Science & Business Analytics): 
+          <li>🔧 Building - AI Agents, Autonomous Bots & Agentic Pipelines </li>
+          <li>🧠 Exploring - Agentic AI architectures, LLM fine-tuning & Advanced NLP </li>
+          <li>🛠️ Stack - Data Science · Machine Learning · NLP · GenAI · LLM Orchestration </li>
+          <li>🎓 Certified - PGPDSBA (Data Science & Business Analytics): 
             <a href="https://eportfolio.mygreatlearning.com/shubhank-katarey" target="_blank">PGPDSBA</a>
           </li>
-          <li>🌐 Webfolio — Explore my work & projects: 
+          <li>🌐 Webfolio - Explore my work & projects: 
             <a href="https://shubhanalytics.github.io/shubhanalytics-webfolio/" target="_blank">Webfolio</a>
           </li>
         </ul>
