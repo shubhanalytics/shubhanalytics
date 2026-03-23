@@ -59,10 +59,10 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://x.com/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" height="28"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/twitter/follow/shubhanalytics?style=social" alt="Twitter/X"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/-shubhanalytics-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
