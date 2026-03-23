@@ -35,17 +35,17 @@
 
 <p align="center">
   <table align="center"><tr>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="35" height="35"/></a><br/><sub>Python</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub>MySQL</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35"/></a><br/><sub>TensorFlow</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35"/></a><br/><sub>PyTorch</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35"/></a><br/><sub>Scikit-learn</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35"/></a><br/><sub>Pandas</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35"/></a><br/><sub>Seaborn</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35"/></a><br/><sub>Tableau</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35"/></a><br/><sub>Power BI</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=azure" width="35" height="35"/></a><br/><sub>Azure</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=git" width="35" height="35"/></a><br/><sub>Git</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Python</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">MySQL</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">TensorFlow</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">PyTorch</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Scikit-learn</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Pandas</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Seaborn</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Tableau</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Power BI</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=azure" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Azure</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=git" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Git</sub></td>
   </tr></table>
 </p>
 
