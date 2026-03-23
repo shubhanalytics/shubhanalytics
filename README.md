@@ -58,15 +58,12 @@
 
 <!-- Social Links -->
 <div align="center" style="margin: 30px 0;">
-  <h3>🌐 Connect & Follow</h3>
-  <p>
-    <a href="https://x.com/shubhanalytics" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24" height="24" alt="Twitter/X"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"/>
-    </a>
-  </p>
+  <a href="https://x.com/shubhanalytics" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <!-- Quote -->
