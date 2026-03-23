@@ -57,14 +57,14 @@
 </div>
 
 <!-- Social Links -->
-<div align="center" style="margin: 30px 0;">
+<p align="center">
   <a href="https://x.com/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" height="28"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
-</div>
+</p>
 
 <!-- Quote -->
 <div align="center">
