@@ -59,14 +59,12 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://x.com/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/-%40shubhanalytics-1DA1F2?style=flat-square&logo=x&logoColor=white" height="30" alt="X"/>
+    <img src="https://img.shields.io/badge/X-@shubhanalytics-000?style=flat&logo=x&logoColor=black&labelColor=white" alt="X"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
-    <img src="https://img.shields.io/badge/-shubhanalytics-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=flat-square&color=blueviolet" height="30" alt="Profile views"/>
 </p>
 
 <!-- Quote -->
