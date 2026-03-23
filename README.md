@@ -35,33 +35,33 @@
 
 <p align="center">
   <table align="center"><tr>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=python" width="35" height="35" style="pointer-events:none;"/><br/><sub>Python</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" style="pointer-events:none;"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=sqlite" width="35" height="35" style="pointer-events:none;"/><br/><sub>SQLite</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35" style="pointer-events:none;"/><br/><sub>TensorFlow</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35" style="pointer-events:none;"/><br/><sub>PyTorch</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35" style="pointer-events:none;"/><br/><sub>Scikit-learn</sub></td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35" style="pointer-events:none;"/><br/><sub>Pandas</sub></td>
-    <td align="center" width="60"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35" style="pointer-events:none;"/><br/><sub>Seaborn</sub></td>
-    <td align="center" width="60"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35" style="pointer-events:none;"/><br/><sub>Tableau</sub></td>
-    <td align="center" width="60"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35" style="pointer-events:none;"/><br/><sub>Power BI</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=azure" width="35" height="35" style="pointer-events:none;"/><br/><sub>Azure</sub></td>
-    <td align="center" width="60"><img src="https://skillicons.dev/icons?i=git" width="35" height="35" style="pointer-events:none;"/><br/><sub>Git</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="35" height="35"/></a><br/><sub>Python</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub>MySQL</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="35" height="35"/></a><br/><sub>SQLite</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35"/></a><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35"/></a><br/><sub>PyTorch</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35"/></a><br/><sub>Scikit-learn</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35"/></a><br/><sub>Pandas</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35"/></a><br/><sub>Seaborn</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35"/></a><br/><sub>Tableau</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35"/></a><br/><sub>Power BI</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=azure" width="35" height="35"/></a><br/><sub>Azure</sub></td>
+    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=git" width="35" height="35"/></a><br/><sub>Git</sub></td>
   </tr></table>
 </p>
 
 ---
 
-<!-- Connect + Profile Views -->
+<!-- Social + Profile Views -->
 <table width="100%"><tr>
-  <td align="left" width="50%">
-    <h3>🤝 Follow & Connect</h3>
+  <td align="left">
+    <b>🤝 Social</b><br/><br/>
     <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
   </td>
-  <td align="right" width="50%">
-    <h3>👀 Profile Views</h3>
+  <td align="right">
+    <b>👀 Profile Views</b><br/><br/>
     <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
   </td>
 </tr></table>
