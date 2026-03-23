@@ -61,6 +61,8 @@
   <a href="https://x.com/shubhanalytics"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
 </p>
 
 <!-- Quote -->
