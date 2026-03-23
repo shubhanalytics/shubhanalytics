@@ -30,34 +30,43 @@
   </table>
 </div>
 
-
 <!-- Languages & Tools -->
 <h3 align="center">Languages & Tools</h3>
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,html,css" />
+  <table align="center"><tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><br/><sub>Python</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/><br/><sub>SQLite</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br/><sub>CSS3</sub></td>
+  </tr></table>
 </p>
 
 <!-- ML / Data -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/></a>
-  &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/></a>
+  <table align="center"><tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"/><br/><sub>Scikit-learn</sub></td>
+    <td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="70"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br/><sub>Seaborn</sub></td>
+  </tr></table>
 </p>
 
 <!-- DevOps / Cloud -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,rabbitmq" />
+  <table align="center"><tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/><br/><sub>Azure</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br/><sub>Docker</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/><br/><sub>Kubernetes</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br/><sub>Git</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40"/><br/><sub>RabbitMQ</sub></td>
+  </tr></table>
 </p>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- Connect -->
 <h3 align="center">🤝 Follow & Connect</h3>
@@ -67,19 +76,13 @@
   <a href="https://www.linkedin.com/in/shubhanalytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
 </p>
 
-<br/>
-
 <!-- Profile Views -->
 <h3 align="center">👀 Profile Views</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
 </p>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- Quote -->
 <div align="center">
