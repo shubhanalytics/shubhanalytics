@@ -30,6 +30,7 @@
   </table>
 </div>
 
+
 <!-- Languages & Tools -->
 <h3 align="center">Languages & Tools</h3>
 
@@ -54,14 +55,29 @@
 
 <br/>
 
-<!-- Social + Profile Views -->
+---
+
+<br/>
+
+<!-- Connect -->
+<h3 align="center">🤝 Follow & Connect</h3>
 <p align="center">
   <a href="https://x.com/shubhanalytics"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shubhanalytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
-  &nbsp;
+</p>
+
+<br/>
+
+<!-- Profile Views -->
+<h3 align="center">👀 Profile Views</h3>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
 </p>
+
+<br/>
+
+---
 
 <br/>
 
