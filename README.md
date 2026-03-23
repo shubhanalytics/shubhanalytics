@@ -37,7 +37,6 @@
   <table align="center"><tr>
     <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="35" height="35"/></a><br/><sub>Python</sub></td>
     <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub>MySQL</sub></td>
-    <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="35" height="35"/></a><br/><sub>SQLite</sub></td>
     <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35"/></a><br/><sub>TensorFlow</sub></td>
     <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35"/></a><br/><sub>PyTorch</sub></td>
     <td align="center" width="60"><a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35"/></a><br/><sub>Scikit-learn</sub></td>
@@ -53,18 +52,13 @@
 ---
 
 <!-- Social + Profile Views -->
-<table width="100%" style="border:0; border-collapse:collapse;"><tr>
-  <td align="left" style="border:0;">
-    <b>🤝 Social</b><br/><br/>
-    <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" style="border:0;"/></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="border:0;"/></a>
-  </td>
-  <td align="right" valign="bottom" style="border:0;">
-    <b>👀 Profile Views</b><br/><br/>
-    <a href="#" style="border:0;"><img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views" style="border:0;"/></a>
-  </td>
-</tr></table>
+<p align="center">
+  <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" style="border:0;"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="border:0;"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" style="border:0;"><img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views" style="border:0;"/></a>
+</p>
 
 ---
 
