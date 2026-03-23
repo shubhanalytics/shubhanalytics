@@ -58,13 +58,9 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://x.com/shubhanalytics" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&center=true&vCenter=true&width=160&lines=Follow+on+X+%F0%9F%90%A6" alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=0A66C2&center=true&vCenter=true&width=200&lines=Connect+on+LinkedIn+%F0%9F%92%BC" alt="LinkedIn"/>
-  </a>
+  <a href="https://x.com/shubhanalytics"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shubhanalytics"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
 </p>
 
 <!-- Quote -->
