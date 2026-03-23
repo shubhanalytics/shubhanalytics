@@ -53,16 +53,16 @@
 ---
 
 <!-- Social + Profile Views -->
-<table width="100%"><tr>
-  <td align="left">
+<table width="100%" style="border:0; border-collapse:collapse;"><tr>
+  <td align="left" style="border:0;">
     <b>🤝 Social</b><br/><br/>
-    <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>
+    <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" style="border:0;"/></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer" style="border:0;"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="border:0;"/></a>
   </td>
-  <td align="right">
+  <td align="right" valign="bottom" style="border:0;">
     <b>👀 Profile Views</b><br/><br/>
-    <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
+    <a href="#" style="border:0;"><img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views" style="border:0;"/></a>
   </td>
 </tr></table>
 
