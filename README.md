@@ -30,6 +30,8 @@
   </table>
 </div>
 
+---
+
 <!-- Languages & Tools -->
 <h3 align="center">📊 Tech Stack 🛠️</h3>
 <p align="center">
@@ -48,6 +50,7 @@
     <td align="center" width="80"><a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Google Gen AI</sub></td>
   </tr></table>
 </p>
+
 ---
 
 <!-- Social + Profile Views -->
