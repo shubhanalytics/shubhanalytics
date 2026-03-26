@@ -32,25 +32,22 @@
 
 <!-- Languages & Tools -->
 <h3 align="center">📊 Tech Stack 🛠️</h3>
-
 <p align="center">
   <table align="center"><tr>
     <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Python</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/sql.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">SQL</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">NumPy</sub></td>
     <td align="center" width="80"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Pandas</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Tableau</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Power BI</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">MySQL</sub></td>
     <td align="center" width="80"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Matplotlib</sub></td>
     <td align="center" width="80"><a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Seaborn</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">TensorFlow</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">PyTorch</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/sql.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">SQL</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">MySQL</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/tableau-software.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Tableau</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://img.icons8.com/color/48/power-bi.png" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Power BI</sub></td>
     <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Scikit-learn</sub></td>
     <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=azure" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Azure</sub></td>
-    <td align="center" width="80"><a href="#"><img src="https://skillicons.dev/icons?i=git" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Git</sub></td>
+    <td align="center" width="80"><a href="#"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="35" height="35"/></a><br/><sub style="font-size:11px;white-space:nowrap;">Google Gen AI</sub></td>
   </tr></table>
 </p>
-
 ---
 
 <!-- Social + Profile Views -->
