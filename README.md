@@ -58,11 +58,25 @@
 
 <!-- Social + Profile Views -->
 <div align="center">
-  <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/></a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://x.com/shubhanalytics" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/shubhanalytics" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="https://komarev.com/ghpvc/?username=shubhanalytics&style=for-the-badge&color=blueviolet" height="40" alt="Profile views"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
